@@ -1,6 +1,5 @@
 # electre
-
-A new Flutter project.
+For downloading the app, go to build/windows/runner/release/electre.exe
 
 ## Getting Started
 
